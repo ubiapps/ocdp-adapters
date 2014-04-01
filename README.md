@@ -56,6 +56,6 @@ Related
 
 For details of existing OCDP adapters, see [ocdp CSV adapter] and [ocdp XLS adapter].
 
-[ocdp CSV adapter]:http://github.com/TobyEalden/ocdp-fileImporter-csv
-[ocdp XLS adapter]:http://github.com/TobyEalden/ocdp-fileImporter-xls
+[ocdp CSV adapter]:http://github.com/ubiapps/ocdp-fileImporter-csv
+[ocdp XLS adapter]:http://github.com/ubiapps/ocdp-fileImporter-xls
 
